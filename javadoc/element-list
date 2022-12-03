@@ -1,0 +1,7 @@
+com.rickotb.catalogstore
+com.rickotb.catalogstore.bl
+com.rickotb.catalogstore.da
+com.rickotb.catalogstore.da.dao
+com.rickotb.catalogstore.da.entity
+com.rickotb.catalogstore.entity
+com.rickotb.catalogstore.ui

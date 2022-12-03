@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CatalogStore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CatalogStore_jar</output-path>
+    <root id="archive" name="CatalogStore.jar">
+      <element id="module-output" name="CatalogStore" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Рабочий стол/Program/bcrypt-0.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Рабочий стол/Program/bytes-0.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Рабочий стол/Program/gson-2.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
